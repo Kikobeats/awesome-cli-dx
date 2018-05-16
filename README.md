@@ -20,6 +20,10 @@
 
 [![](https://pbs.twimg.com/media/DRIRvipUMAAyu0y.jpg)](https://twitter.com/tjholowaychuk/status/941835179621941249)
 
+### Extra information
+
+![](https://i.imgur.com/XhF31yi.png)
+
 ### Lovely Commands
 
 - [gnomon](https://github.com/paypal/gnomon) – Perfect for analyze quickly logs
