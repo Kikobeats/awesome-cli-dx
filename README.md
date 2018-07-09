@@ -29,3 +29,4 @@
 - [gnomon](https://github.com/paypal/gnomon) – Perfect for analyze quickly logs
 - [pup](https://github.com/ericchiang/pup) – command line tool for processing HTML. [1](https://twitter.com/tjholowaychuk/status/938908368529272833)
 - [jq](https://github.com/stedolan/jq) – Command-line JSON processor. [1](https://twitter.com/tjholowaychuk/status/876951581119229953)
+- [peco](https://github.com/peco/peco) – Simplistic interactive filtering tool.
