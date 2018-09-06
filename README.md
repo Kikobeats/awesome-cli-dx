@@ -35,4 +35,7 @@
 - [jq](https://github.com/stedolan/jq) – Command-line JSON processor. [1](https://twitter.com/tjholowaychuk/status/876951581119229953)
 - [peco](https://github.com/peco/peco) – Simplistic interactive filtering tool.
 - [pup](https://github.com/ericchiang/pup) – command line tool for processing HTML. [1](https://twitter.com/tjholowaychuk/status/938908368529272833)
+- [share](https://github.com/marionebl/share-cli) –  Quickly share files from your command line.
+- [clipboard](https://github.com/sindresorhus/clipboard-cli) – Access the system clipboard (copy/paste).
+- [jsonresume](https://jsonresume.org/) – Cli tool to easily setup a new resume.
 
