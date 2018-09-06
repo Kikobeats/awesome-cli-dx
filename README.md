@@ -38,4 +38,6 @@
 - [share](https://github.com/marionebl/share-cli) –  Quickly share files from your command line.
 - [clipboard](https://github.com/sindresorhus/clipboard-cli) – Access the system clipboard (copy/paste).
 - [jsonresume](https://jsonresume.org/) – Cli tool to easily setup a new resume.
+- [git-authors](https://github.com/Kikobeats/git-authors-cli) – Detects project contributors and add it into `package.json`.
+- [regexgen](https://github.com/Kikobeats/regexgen-cli) – Generates regular expressions that match a set of strings.
 
