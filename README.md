@@ -26,11 +26,13 @@
 
 ### Lovely Commands
 
+- [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) – Good-lookin' diffs with diff-highlight and more.
+- [entrp](http://www.entrproject.org/) – Run arbitrary commands when files change.
 - [gnomon](https://github.com/paypal/gnomon) – Perfect for analyze quickly logs
-- [pup](https://github.com/ericchiang/pup) – command line tool for processing HTML. [1](https://twitter.com/tjholowaychuk/status/938908368529272833)
+- [htop](https://github.com/hishamhm/htop) – htop is an interactive `top`.
+- [hub](https://github.com/github/hub) – hub helps you win at git.
 - [jq](https://github.com/stedolan/jq) – Command-line JSON processor. [1](https://twitter.com/tjholowaychuk/status/876951581119229953)
 - [peco](https://github.com/peco/peco) – Simplistic interactive filtering tool.
-- [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [hub](https://github.com/github/hub) – hub helps you win at git. 
-- [htop](https://github.com/hishamhm/htop) – htop is an interactive `top`.
-- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) – Good-lookin' diffs with diff-highlight and more.
+- [pup](https://github.com/ericchiang/pup) – command line tool for processing HTML. [1](https://twitter.com/tjholowaychuk/status/938908368529272833)
+
