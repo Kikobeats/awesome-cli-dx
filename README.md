@@ -40,4 +40,5 @@
 - [jsonresume](https://jsonresume.org/) – Cli tool to easily setup a new resume.
 - [git-authors](https://github.com/Kikobeats/git-authors-cli) – Detects project contributors and add it into `package.json`.
 - [regexgen](https://github.com/Kikobeats/regexgen-cli) – Generates regular expressions that match a set of strings.
+- [pv](https://github.com/icetee/pv) – Monitoring the progress of data through a pipeline.
 
