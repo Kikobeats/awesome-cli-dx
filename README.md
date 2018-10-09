@@ -42,3 +42,7 @@
 - [regexgen](https://github.com/Kikobeats/regexgen-cli) – Generates regular expressions that match a set of strings.
 - [pv](https://github.com/icetee/pv) – Monitoring the progress of data through a pipeline.
 
+### Bibliography
+
+- [12 Factor CLI Apps](https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46).
+
