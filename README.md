@@ -28,7 +28,7 @@
 
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) – Good-lookin' diffs with diff-highlight and more.
-- [entrp](http://www.entrproject.org/) – Run arbitrary commands when files change.
+- [entrp](http://eradman.com/entrproject/) – Run arbitrary commands when files change.
 - [gnomon](https://github.com/paypal/gnomon) – Perfect for analyze quickly logs
 - [htop](https://github.com/hishamhm/htop) – htop is an interactive `top`.
 - [hub](https://github.com/github/hub) – hub helps you win at git.
