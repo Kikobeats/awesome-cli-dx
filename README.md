@@ -42,6 +42,8 @@
 - [regexgen](https://github.com/Kikobeats/regexgen-cli) – Generates regular expressions that match a set of strings.
 - [pv](https://github.com/icetee/pv) – Monitoring the progress of data through a pipeline.
 - [fx](https://github.com/antonmedv/fx) – Command-line JSON processing tool.
+- [spot](https://github.com/rauchg/spot) – Tiny search utility.
+- [share](https://github.com/marionebl/share-cli#readme) – Quickly share files from your command line.
 
 ### Bibliography
 
